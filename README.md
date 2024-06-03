@@ -32,6 +32,6 @@ Each of the following case study questions provides Danny with some valuable bus
 
 ![Screenshot 2024-06-03 104954](https://github.com/diptiranjan1998/Danny-s-Dinner/assets/126856016/6fcc6b57-9617-4efd-8569-5ce4fbcfb906)
 
-### Run this [SQL Script](https://drive.google.com/file/d/1rBo6b2IgJsUx2KQh6EIYwzPj6UdiftYr/view?usp=drive_link) to get the comprehensive answers to above case study questions.
+### Run this [SQL Script](https://drive.google.com/file/d/1rBo6b2IgJsUx2KQh6EIYwzPj6UdiftYr/view?usp=drive_link) to get the comprehensive answers to the above case study questions.
 
 ## THANK YOU
